@@ -1,0 +1,38 @@
+body {
+    background-color: blueviolet;
+}
+
+h1{
+    text-align: center;
+    font-size: 3em;
+}
+
+.home {
+    text-align: center;
+    font-size: 2em;
+}
+
+.name {
+    float: center;
+    width: 75%;
+    margin-top: 6px;
+}
+
+.nombre {
+    float: center;
+    width: 25%;
+    margin-top: 6px;
+}
+
+.email {
+float: center;
+width: 75%;
+margin-top: 6px;
+}
+
+.message {
+    float: center;
+    width: 75%;
+    margin-top: 6px;
+}
+
